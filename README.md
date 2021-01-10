@@ -11,6 +11,7 @@ Adjust the position of HTML elements in the browser using five CSS properties: P
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Flow-of-HTML.git
 
 ```
 
