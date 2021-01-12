@@ -105,3 +105,11 @@ footer {
     background: #C0D6DF;
     color: #FFF;
 }
+
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    color: #000;
+}
