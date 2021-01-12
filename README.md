@@ -1,7 +1,5 @@
 # Flow-of-HTML
 
-https://senayyakut.github.io/Flow-of-HTML/
-
 Flow of HTML is a HTML, CSS Project
  
 Adjust the position of HTML elements in the browser using five CSS properties: Position, Display, Z-index, Float and Clear.
