@@ -106,7 +106,7 @@ footer {
     color: #FFF;
 }
 
-#creator {
+div#creator {
     float: right;
     font-family: "Dancing script", cursive;
     margin-right: 20px;
